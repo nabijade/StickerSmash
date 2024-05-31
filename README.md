@@ -1,1 +1,1 @@
-# handipars
+# StickerSmash

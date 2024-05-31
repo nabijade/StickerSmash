@@ -1,4 +1,4 @@
-#StickerSmash App
+StickerSmash App
 - Expo and React Native tutorial
 - Experimented with new programming language, JavaScript
 - Learned basics of creating an app prototype through frontend development
